@@ -6,3 +6,8 @@ download links for PowerShell, python, etc.
 logoff
 ```
  - [Python](https://www.python.org/ftp/python/3.13.0/python-3.13.0-amd64.exe)
+```
+pip install ~~
+```
+ - [ffmpeg](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-essentials.7z)
+ - [BandiZip](https://kr.bandisoft.com/bandizip/dl.php?web)
